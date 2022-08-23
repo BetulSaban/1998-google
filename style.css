@@ -1,0 +1,39 @@
+.bg-color-search {
+    background-color: #eeeeee;
+}
+.box-1 {
+    background-color: #7EE5DA;
+    float:left ;
+    padding: 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+    height: 60px;
+    width: 36%;
+    
+}
+.box-2 {
+    background-color: #70ccc2;
+    font-size: 12px;
+    float:left;
+    padding: 10px;
+    margin-top: 2px;
+    margin-right: 2px;
+   
+    height: 60px;
+    width: 18%;
+}
+.box-3 
+{
+    background-color: #62b3aa;
+    font-size: 11px;
+    float:left ;
+    padding:10px;
+    margin-top: 2px;
+    height: 60px;
+    width: 40%;
+}
+
+.card {
+    width: 100%;
+    margin-bottom: 0%;
+}
